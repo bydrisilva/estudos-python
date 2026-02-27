@@ -15,7 +15,7 @@ print(f"1. Precisaremos de {litros_necessarios} litros de gasolina.")
 custo_gasolina = litros_necessarios * preco_gasolina
 print(f"2. O custo da gasolina será R$ {custo_gasolina}")
 
-# 3. ADIÇÃO (+): Adicionando o dinheiro do lanche na parada
+# 3. ADIÇÃO (+): Adicionando o dinheiro do lanche na parada.
 custo_com_lanche = custo_gasolina + 45.00
 print(f"3. Custo total com lanche: R$ {custo_com_lanche}")
 
